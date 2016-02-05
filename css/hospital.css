@@ -1,0 +1,13 @@
+#content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+<div id="content">
+    <img src="images/hospital.jpeg" class="hospital"/>
+    <div>Image</div>
+</div>
